@@ -2,24 +2,20 @@
 
 A sleek and responsive To-Do List app built with **React** and **Tailwind CSS**.
 
-## 🚀 Features
+# Features
 
 - Add tasks using the input field or **Enter** key
 - Mark tasks as complete/incomplete by clicking the tick icon
 - Delete tasks with the delete icon
 - Responsive design with modern UI using Tailwind CSS
 
-## 🖼️ Preview
-
-
-
-## 🔧 Built With
+# Built With
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 
-## 📂 Getting Started
+# Getting Started
 
 To run this project locally:
 
